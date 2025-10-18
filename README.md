@@ -1,4 +1,4 @@
-### Hi there, Shyamashree here 👋
+### Hi, I am Shyamashree. I am enthusiatic about discovering meaning patterns in data using different tools and technologies.  👋
 
 
 <!--
